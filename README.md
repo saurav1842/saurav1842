@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 <p align="left">
 <a href="https://linkedin.com/in/saurav-suman1823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav-suman1823" height="80" width="100" /></a>
 <a href="https://instagram.com/saurav__1842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurav__1842" height="80" width="100" /></a>
-<a href="https://www.leetcode.com/sumansaurav1687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumansaurav1687" height="80" width="100" /></a>
+
 </p>
 
 ---
