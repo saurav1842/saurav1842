@@ -33,6 +33,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
   </a>
 </p>
 
+---
 
 ## 🌐 Connect with Me
 
